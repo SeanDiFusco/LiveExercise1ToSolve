@@ -10,7 +10,7 @@ import ie.cit.soft8027.liveexercise1.repository.LearningOutcomeRepository;
 import ie.cit.soft8027.liveexercise1.repository.ModuleRepository;
 
 // MISSING!
-public class LearningServiceImpl // MISSING!
+public class LearningServiceImpl implements LearningService{
 
 	// MISSING!
 	private ModuleRepository moduleRepo;
